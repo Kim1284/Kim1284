@@ -1,16 +1,22 @@
-## Hi there 👋
+## Kimia Safari
 
-<!--
-**Kim1284/Kim1284** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Sharif University of Technology.
 
-Here are some ideas to get you started:
+I'm interested in web development, with a particular focus on front-end technologies like HTML, CSS, and React, while staying open to and comfortable across the broader programming and tech stack. I enjoy turning real problems into clean, working software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+- **[Hospital Management System]([PASTE-REPO-LINK-HERE](https://github.com/Kim1284/hospital-management-system.git))**: An object-oriented hospital management system built with Python.
+- **[Library Management System](PASTE-REPO-LINK-HERE)**: A library management website with a MySQL database, covering books, members, loans, fines, and librarians.
+
+## Skills
+
+- **Web:** HTML, CSS, React
+- **Languages:** Python
+- **Databases:** MySQL
+- **Foundations:** Data structures, algorithm design, object-oriented programming
+
+## Contact
+
+- Email: k.saffari12@gmail.com
+- LinkedIn: 
