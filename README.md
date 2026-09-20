@@ -19,6 +19,8 @@ I'm interested in web development, with a particular focus on front-end technolo
 ## Contact
 
 - Email: k.saffari12@gmail.com
-- LinkedIn: linkedin.com/in/kimiasaffari
+- LinkedIn:www.linkedin.com/in/kimiasaffari
+
+
 
 
