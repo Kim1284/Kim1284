@@ -6,8 +6,8 @@ I'm interested in web development, with a particular focus on front-end technolo
 
 ## Featured Projects
 
-- **[Hospital Management System]([https://github.com/Kim1284/hospital-management-system.git])**: An object-oriented hospital management system built with Python.
-- **[Library Management System]([https://github.com/Kim1284/library-management-system.git])**: A library management website with a MySQL database, covering books, members, loans, fines, and librarians.
+- **[Hospital Management System](https://github.com/Kim1284/hospital-management-system.git)**: An object-oriented hospital management system built with Python.
+- **[Library Management System](https://github.com/Kim1284/library-management-system.git)**: A library management website with a MySQL database, covering books, members, loans, fines, and librarians.
 
 ## Skills
 
